@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETL_DimCustomer", "ETL_DimCustomer\ETL_DimCustomer.dtproj", "{E555C24A-2530-FE7D-087B-6C55AA7080DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E555C24A-2530-FE7D-087B-6C55AA7080DE}.Development|Default.ActiveCfg = Development
+		{E555C24A-2530-FE7D-087B-6C55AA7080DE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EE3D832-37EC-487F-B7CA-FE762E655D41}
+	EndGlobalSection
+EndGlobal
